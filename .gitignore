@@ -1,1 +1,46 @@
-__pycache__
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environments
+style/
+venv/
+env/
+ENV/
+
+# Model checkpoints and trained models
+Models/
+*.pth
+*.pt
+*.ckpt
+*.t7
+
+# Data files (user-specific)
+Data/
+*.wav
+*.mp3
+*.flac
+
+# Logs and tensorboard
+*.log
+tensorboard/
+logs/
+runs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.cache

@@ -17,9 +17,9 @@ PLBERT_dir: 'Utils/PLBERT/'
 data_params:
   train_data: "Data/train_list.txt"
   val_data: "Data/val_list.txt"
-  root_path: "/local/LJSpeech-1.1/wavs"
+  root_path: "/home/Ilya/voice-checkpoint/wavs"
   OOD_data: "Data/OOD_texts.txt"
-  min_length: 50 # sample until texts with this size are obtained for OOD texts
+  min_length: 10 # sample until texts with this size are obtained for OOD texts
 
 preprocess_params:
   sr: 24000
