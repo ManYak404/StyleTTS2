@@ -3,8 +3,8 @@ save_freq: 5
 log_interval: 10
 device: "cuda"
 epochs: 50 # number of finetuning epoch (1 hour of data)
-batch_size: 8
-max_len: 400 # maximum number of frames
+batch_size: 2
+max_len: 250 # maximum number of frames
 pretrained_model: "Models/LibriTTS/epochs_2nd_00020.pth"
 second_stage_load_pretrained: true # set to true if the pre-trained model is for 2nd stage
 load_only_params: true # set to true if do not want to load epoch numbers and optimizer parameters
@@ -22,14 +22,14 @@ data_params:
   min_length: 10 # sample until texts with this size are obtained for OOD texts
 
 preprocess_params:
-  sr: 24000
+  sr: 44100
   spect_params:
     n_fft: 2048
     win_length: 1200
     hop_length: 300
 
 model_params:
-  multispeaker: true
+  multispeaker: false
 
   dim_in: 64 
   hidden_dim: 512
