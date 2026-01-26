@@ -9,10 +9,10 @@ import random
 from pathlib import Path
 
 # Configuration
-MOUNTED_DATA_DIR = Path("/home/Ilya/voice-checkpoint")
-METADATA_FILE = MOUNTED_DATA_DIR / "metadata.tsv"
-WAVS_DIR = MOUNTED_DATA_DIR / "wavs"
-OUTPUT_DIR = Path("/home/Ilya/StyleTTS2/Data")
+MOUNTED_DATA_DIR = Path("/home/ilya_vaschillo/voice-checkpoint")
+METADATA_FILE = MOUNTED_DATA_DIR / "metadata_v1.tsv"
+WAVS_DIR = MOUNTED_DATA_DIR / "wavs_v1"
+OUTPUT_DIR = Path("/home/ilya_vaschillo/StyleTTS2/Data")
 TRAIN_LIST = OUTPUT_DIR / "train_list.txt"
 VAL_LIST = OUTPUT_DIR / "val_list.txt"
 TRAIN_SPLIT = 0.8  # 80% train, 20% validation

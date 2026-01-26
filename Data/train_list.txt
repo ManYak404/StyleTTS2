@@ -1,30 +1,902 @@
-my_voice-12.wav|Why do you think awkward silences make us so uncomfortable?|0
+james_fortune-73.wav|This variable is set to indicate the present time.|0
+ajaydee-288.wav|It was repetitious, but soothing.|0
+ajaydee-274.wav|My job requires a lot of travelling.|0
+DNGros-398.wav|The price is up twenty two percent.|0
+DNGros-286.wav|Please try to let us know by September.|0
+est31-19.wav|On the brink of the fourteenth century, nobody had mobile phones.|0
+DNGros-244.wav|"See," said Sarah, "that is my brother."|0
+est31-90.wav|The deciding battle of the war has been fought in this valley.|0
+DNGros-301.wav|While it has a long shelf life, the items will expire in twenty-twenty-six.|0
+my_voice-38.wav|Jacqueline, Micheal and Nicholas were often called Jack, Mike and Nokia.DNGros-01.wav	How big can elephants be?|0
+ajaydee-222.wav|The concrete was covered in moss.|0
+est31-04.wav|Our bitch had puppies, do you want one?|0
+DNGros-316.wav|We are opening a new location at ten eighty-seven Oak Street.|0
+ajaydee-171.wav|Let's go Hiking across France.|0
+DNGros-472.wav|Abraham Lincoln was the sixteenth president of the United States.|0
+DNGros-13.wav|Open the window.|0
+DNGros-53.wav|Thomas took a trip to Canada.|0
+DNGros-356.wav|The sandwich comes with ham, cheese, tomatoes, mayonnaise, pickles.|0
+ajaydee-223.wav|The window opened outward.|0
+DNGros-230.wav|I am supposed to be here.|0
+ajaydee-213.wav|There was no respite to be had.|0
+DNGros-359.wav|The child put on his pajamas.|0
+est31-96.wav|This no good alternative.|0
+est31-172.wav|Those buildings and the history around them attract thousands of tourists.|0
+DNGros-381.wav|It took forty five minutes for Pedro to drive to work.|0
+ajaydee-233.wav|What is my function?|0
+ajaydee-296.wav|It was immediately apparent the smell was noxious.|0
 my_voice-34.wav|To understand recursion, one must first learn about recursion.|0
-my_voice-11.wav|It's freezing outside!|0
-my_voice-33.wav|The CEO of that Japanese company resigned.|0
-my_voice-35.wav|Flick that switch for me, will you?|0
-my_voice-30.wav|He took a sip from his coffee cup and shook his head.|0
-my_voice-13.wav|Tyler, Lucy, Michelle, we're going to space!|0
-my_voice-06.wav|Why are you blaming me?|0
-my_voice-26.wav|Can you come pick me up at the office?|0
-my_voice-31.wav|This statement is completely false.|0
+DNGros-454.wav|Leonardo DiCaprio is staring in his own movie.|0
+ajaydee-283.wav|The population was increasing exponentially.|0
 my_voice-28.wav|Technically, breaking a mirror is not five years, but seven years of bad luck.|0
+DNGros-459.wav|Tom Hanks is the third highest-grossing actor in North America.|0
+my_voice-13.wav|Tyler, Lucy, Michelle, we're going to space!|0
+ajaydee-215.wav|The buttons made a strange clicking sound when pressed.|0
+DNGros-121.wav|Good morning, how are you?|0
+ajaydee-190.wav|The children were almost tyrannical.|0
+ajaydee-76.wav|A drought hit Western Europe.|0
+est31-102.wav|The command was given to erect an outpost to defend strikes from the east.|0
+ajaydee-75.wav|All of the resources were used up.|0
+ajaydee-49.wav|What was spoken was totally disregarded.|0
+my_voice-18.wav|Reading or not, it's to you, really.|0
+ajaydee-106.wav|At the top of the skyscraper was a suspicious satellite disc.|0
+ajaydee-68.wav|Somehow, the purple colour faded to gray.|0
+james_fortune-19.wav|I have the key on myself.|0
+est31-133.wav|Six hundred years after its founding, the city was at the peak of its building activity.|0
+DNGros-56.wav|Maria is bringing her friend Walter.|0
+DNGros-12.wav|Please shut the door.|0
+ajaydee-225.wav|The ivy climbed up the building and wrapped itself around the chimney.|0
+ajaydee-170.wav|A ghostly figure appeared.|0
+DNGros-135.wav|That is the way the system works.|0
+DNGros-85.wav|You know, he is an honest man.|0
+est31-64.wav|The boss level is easy.|0
+ajaydee-22.wav|She felt like a weakling in comparison to her newborn daughter.|0
+ajaydee-217.wav|A good example of a dinosaur is the Pterodactyl.|0
+ajaydee-192.wav|The router overheated and needed to be restarted.|0
+ajaydee-253.wav|Sandra read aloud the strange excerpt.|0
+ajaydee-24.wav|Anthony kept himself busy by counting pigeons.|0
+est31-77.wav|Hopefully this will actually be the last fix to the issue, and not just a short term fix.|0
+DNGros-128.wav|Can you please check your inventory?|0
+ajaydee-67.wav|The orange fruit is not yet ripened.|0
+DNGros-117.wav|No, I will tell her myself.|0
+DNGros-190.wav|Have you been to Japan?|0
+ajaydee-245.wav|A little lemongrass should freshen it up.|0
+DNGros-113.wav|She is a very smart lady, and I think she can figure it out.|0
+DNGros-71.wav|I spilled coffee on my paper.|0
+est31-69.wav|The first concern is to patch the holes in the ship, then we can pump out the water.|0
+DNGros-364.wav|May I have some syrup to go on these pancakes?|0
+est31-116.wav|It was raised from everyone who entered the city during the celebration period.|0
+DNGros-339.wav|Will it rain tomorrow?|0
+DNGros-294.wav|The theater is closed for renovations, but will reopen in twenty-nineteen.|0
+est31-158.wav|There was not enough economic power left to rebuild the city guards.|0
+DNGros-375.wav|Look! There is Manuel crossing the street.|0
+ajaydee-250.wav|There was no justification for it.|0
+DNGros-10.wav|I woke up to the screech of my neighbor practicing trumpet.|0
+DNGros-246.wav|Inside Elizabeth saw Donald.|0
+est31-108.wav|Later, a bridge was built.|0
+ajaydee-241.wav|August may have ended early.|0
+james_fortune-26.wav|Constructing a cipher or hash to exhibit a substantial avalanche effect is one of its primary design objectives.|0
+ajaydee-20.wav|The space was spartan, almost bare.|0
+est31-71.wav|Since it's been repaired, the car hasn't shown the issue any more.|0
+est31-36.wav|I have never seen this approach to this issue, but it might work.|0
+james_fortune-64.wav|Do not execute a remote command.|0
+DNGros-220.wav|Hello, Benjamin.|0
+DNGros-299.wav|The next time the eclipse occurs is in twenty-twenty-four.|0
+james_fortune-58.wav|I did this to prevent cycling and encourage greater movement through the solution space.|0
+est31-46.wav|For the best part of its life, the table has been standing in the basement.|0
+DNGros-324.wav|The bestselling novel was read four million times.|0
+james_fortune-42.wav|Observe that commonly used crossover operators cannot change any uniform population.|0
+ajaydee-93.wav|We must stay hidden.|0
 my_voice-05.wav|It's only a matter of days before the book gets published.|0
-my_voice-10.wav|Did you really think it through?|0
-my_voice-20.wav|Now, imagine a guy walking through that door and starting to give orders with a heavy accent.|0
-my_voice-04.wav|I really don't like dress codes.|0
-my_voice-25.wav|Would you believe he actually asked me out?|0
-my_voice-21.wav|That's pretty creepy if you ask me.|0
+est31-149.wav|This obviously hurt the economy, as well as city income.|0
+DNGros-225.wav|Tyler, do you remember when I gave you that note?|0
+DNGros-449.wav|Oprah Winfrey held a talk show for many years.|0
+ajaydee-42.wav|The descent was disturbingly steep.|0
+DNGros-261.wav|The race was finished in just thirty nine minutes, beating all expectations.|0
+james_fortune-40.wav|Operating on dynamic data sets is difficult.|0
+DNGros-104.wav|That is one possibility, but we would both prefer it did not happen.|0
+DNGros-479.wav|William Shakespeare was an English poet and playwright that lived during the late sixteenth century.|0
+ajaydee-07.wav|They all gathered in Manchester.|0
+DNGros-338.wav|The flight was delayed by twenty two minutes.|0
+DNGros-351.wav|I must speak to my lawyer.|0
+ajaydee-195.wav|The requirements are rather high for this job.|0
+DNGros-112.wav|No one has ever done it before.|0
+DNGros-328.wav|Most reports of UFOs have never been verified.|0
+DNGros-327.wav|The CIA and MI-Six are secret spy agencies.|0
+ajaydee-278.wav|Liz put the flowers into a mirrored vase.|0
+est31-52.wav|I've been very busy the last few weeks.|0
+ajaydee-85.wav|She hoisted up the pirate flag.|0
+ajaydee-61.wav|Regarding your request, I have decided to heed your warnings.|0
+DNGros-45.wav|Jennifer is very creative.|0
+DNGros-343.wav|We had some delicious caramel apples.|0
+ajaydee-91.wav|His expression reminded me of a horse chewing hay.|0
+DNGros-383.wav|Do you know if Dylan is going to go with us?|0
+est31-179.wav|The attraction between moon and earth goes both ways, which causes tides.|0
+DNGros-20.wav|Despite years of research, the problem remained intractable.|0
+DNGros-345.wav|I found a receipt for Caramel Nougat Bars.|0
+DNGros-30.wav|It looks like Lena left her jacket.|0
+ajaydee-92.wav|They placed it in a wooden box, and left it there for good.|0
 my_voice-23.wav|Can I have some of your tasty beverage?|0
-my_voice-17.wav|Read some books, won't you?|0
-my_voice-38.wav|Jacqueline, Micheal and Nicholas were often called Jack, Mike and Nokia.|0
-my_voice-32.wav|Aw man, that's terrible!|0
-my_voice-27.wav|I'll catch a bus.|0
-my_voice-01.wav|If I knew it, I would have told you.|0
-my_voice-37.wav|The problem is that there is no problem when there should have been one.|0
-my_voice-14.wav|That tree is not gonna last more than a year or so.|0
-my_voice-19.wav|Funny how that one is the only chimney not producing any smoke.|0
-my_voice-03.wav|I'm not so sure how I feel about dress codes.|0
-my_voice-36.wav|He stood up, and by the time he went back to his seat everybody in the room was questioning the meaning of life.|0
-my_voice-29.wav|What would you say is the difference between a language and a dialect?|0
+ajaydee-141.wav|Jade's cordless drill has become faulty.|0
+ajaydee-59.wav|The new law was retroactive.|0
+est31-66.wav|Moreover, I won't be needed for the next two days.|0
+est31-124.wav|Passing the bridge was free.|0
+my_voice-35.wav|Flick that switch for me, will you?|0
+est31-197.wav|So basically establishing a system where the externalities are added to the price.|0
+est31-35.wav|For this entire evening, you have been staring at that waitress!|0
+est31-107.wav|Also, at many places it was hard to leave the water.|0
+est31-92.wav|For most owners of the car model, the issue isn't noticeable.|0
+DNGros-348.wav|The students colored with their crayons.|0
 my_voice-24.wav|We've been asked to cease and desist, so let us do neither of those things.|0
+DNGros-418.wav|Emily was stung by a jellyfish.|0
+est31-115.wav|They were financed through a special celebration tax.|0
+DNGros-477.wav|John Lennon and Paul McCartney were two famous members of the Beatles.|0
+ajaydee-261.wav|Elsa knitted furiously.|0
+DNGros-365.wav|The tomato sauce was great.|0
+est31-173.wav|Today, tourism is one of the major economic factors inside the city.|0
+DNGros-175.wav|Unfortunately I broke my leg in an accident and could not continue.|0
+DNGros-367.wav|Have you seen Omar?|0
+ajaydee-267.wav|The track pad on this laptop needed calibrating.|0
+ajaydee-210.wav|I've got indigestion.|0
+DNGros-67.wav|Do you know how long I have been waiting for?|0
+DNGros-284.wav|I like the city, but in July it is too hot.|0
+DNGros-83.wav|Maybe he just put it there for safe keeping?|0
+ajaydee-96.wav|In a weeks time, we're going to America.|0
+DNGros-195.wav|I went to Egypt with my grandmother.|0
+james_fortune-54.wav|The computational complexities of these methods are only proportional to the number of non-zero blocks.|0
+ajaydee-53.wav|"This pepperoni tastes off", she said.|0
+james_fortune-65.wav|Control an active connection multiplexing master process.|0
+DNGros-492.wav|Not too bad, I suppose.|0
+DNGros-488.wav|Two men spoke in Arabic while having a drink at the bar.|0
+ajaydee-183.wav|It was aligned perfectly.|0
+ajaydee-30.wav|The alarm clock was set for twenty past three.|0
+DNGros-32.wav|The doctor removed her gloves.|0
+DNGros-177.wav|Yeah, I was in a wheel chair for months.|0
+DNGros-164.wav|That seems odd because Mark has never been to the house.|0
+DNGros-425.wav|The starlight would guide us as the sun bid us farewell.|0
+est31-09.wav|The sun is friendly right now, but it will turn on us and consume this planet.|0
+est31-123.wav|One bridge was only to be used by citizens.|0
+DNGros-14.wav|Mow the lawn.|0
+DNGros-157.wav|Can it be changed?|0
+est31-93.wav|The second product of the company turned out to be a great success.|0
+ajaydee-293.wav|April cuddled her lamb.|0
+DNGros-318.wav|The tallest building in the world is eight hundred twenty nine point eight meters tall.|0
+DNGros-222.wav|I just want to give you a big hug!|0
+ajaydee-165.wav|The carpet was exquisite.|0
+DNGros-37.wav|Ron was late to the meeting.|0
+ajaydee-70.wav|The wireless joypad was experiencing connection issues.|0
+ajaydee-78.wav|Canada is quite cold at times.|0
+ajaydee-220.wav|His dessert smelled musty, not sweet.|0
+est31-110.wav|In the first few centuries of the town's existence, it was a wooden bridge.|0
+DNGros-166.wav|Oh, I think you are right.|0
+DNGros-473.wav|George Washington was the first president of the United States.|0
+DNGros-68.wav|Where are you from?|0
+ajaydee-45.wav|The relief on her face showed that she understood.|0
+est31-60.wav|The egg's shell is hard and brittle, while the interior is sticky on the fingers.|0
+ajaydee-230.wav|The octopus worried the squid.|0
+DNGros-265.wav|Built January nineteenth, nineteen-seventeen, the monument is now celebrating its centennial.|0
+DNGros-498.wav|It is a magical world filled with elves, dwarves, and dragons.|0
+ajaydee-280.wav|My shampoo is made from coconut and sweet almond.|0
+ajaydee-206.wav|Elizabeth reclined gracefully.|0
+DNGros-370.wav|My friend Murad is coming in this weekend.|0
+ajaydee-289.wav|The thirteenth of march is meant to be unlucky.|0
+DNGros-31.wav|Is this a picture of a cat?|0
+DNGros-308.wav|The pin number is three, seven, two, six.|0
+DNGros-124.wav|I came to pickup my package that arrived today.|0
+DNGros-17.wav|Please bring soap.|0
+ajaydee-115.wav|Everyone toasted the bride and groom.|0
+DNGros-238.wav|"Here, let me show you," said Ann.|0
+DNGros-368.wav|I think he was with Mohamed.|0
+DNGros-407.wav|Did you know that Harry got a new job?|0
+DNGros-109.wav|Hm, that does seem difficult.|0
+est31-44.wav|I don't think this theory explains why the particles attract each other this strongly.|0
+ajaydee-304.wav|He slipped on the stairs.|0
+ajaydee-153.wav|The rocking motion was nauseating.|0
+DNGros-40.wav|Karl is over there.|0
+DNGros-251.wav|Tears streamed down Dorothy's face.|0
+DNGros-79.wav|I do not think that Mister Diaz can be trusted.|0
+ajaydee-268.wav|Calibration complete.|0
+DNGros-395.wav|Emma is running the third race today.|0
+james_fortune-44.wav|This frequency must appear in the absorption and emission spectrum of ionized hydrogen molecule.|0
+DNGros-21.wav|Where is my dress?|0
+est31-131.wav|The second bridge had been funded by public resources to raise taxes.|0
+ajaydee-134.wav|The congestion was heavy throughout the city.|0
+DNGros-119.wav|Yes, that is what I was thinking too.|0
+est31-190.wav|Critics say that this is only possible through subsidies.|0
+DNGros-159.wav|Hey look, a flying pig!|0
+ajaydee-19.wav|Somehow, the paragraphs blurred into each other.|0
+my_voice-31.wav|This statement is completely false.|0
+DNGros-27.wav|Ines loves to go swimming.|0
+ajaydee-06.wav|Katie screamed that they were going to lose.|0
+est31-153.wav|Due to this, the city lost a majority of its stationed soldiers.|0
+DNGros-226.wav|I think it was last Thursday, but I am not sure.|0
+DNGros-250.wav|Betty was surprised.|0
+DNGros-436.wav|I am going to Germany tomorrow.|0
+DNGros-333.wav|What game do you want to play?|0
+ajaydee-312.wav|I couldn't ascertain the reason.|0
+DNGros-139.wav|With your thirty percent discount it will cost eighty-five dollars.|0
+ajaydee-259.wav|The swimming pool was full of chlorine.|0
+DNGros-111.wav|However, I do not think it is impossible.|0
+my_voice-19.wav|Funny how that one is the only chimney not producing any smoke.|0
+est31-202.wav|In the end it boils down to how much we want it to be solved.|0
+DNGros-366.wav|We threw a surprise birthday party for Ali.|0
+my_voice-17.wav|Read some books, won't you?|0
+DNGros-174.wav|What made you stop playing?|0
+my_voice-30.wav|He took a sip from his coffee cup and shook his head.|0
+DNGros-378.wav|I think I see John and Mina over there in the vegetable aisle.|0
+DNGros-184.wav|What was your favorite thing to see in your travels?|0
+DNGros-361.wav|This November I had some pecan pie.|0
+james_fortune-03.wav|Different hash variants exist.|0
+DNGros-354.wav|The mother sat in the courtroom.|0
+ajaydee-216.wav|The alien gurgled and thrashed its tentacles.|0
+james_fortune-57.wav|Sparse connectivity allows us to widen the network without increasing the number of parameters.|0
+DNGros-362.wav|I like both apple and pecan pie.|0
+DNGros-84.wav|That is unlikely considering it has his name on it.|0
+ajaydee-160.wav|Patrick has terminal cancer.|0
+james_fortune-16.wav|When interfering, two waves can be added together to create a wave of greater amplitude than either one.|0
+est31-122.wav|For example, two of the five bridges in the city today, were built back then.|0
+est31-157.wav|There was no replacement for armed forces lost in the fight.|0
+james_fortune-12.wav|Although the reduced capacity was justifiable in their opinion, they stayed the course.|0
+est31-164.wav|After its demise, the city would never attain its old glory again.|0
+est31-141.wav|First, the land based trade route between east and west lost relevance.|0
+est31-50.wav|I'm not familiar with the books this author wrote.|0
+est31-120.wav|The period was enabled by novel stone working techniques.|0
+ajaydee-133.wav|The LED monitor was cracked quite badly.|0
+DNGros-205.wav|I like apples, pears, and pomegranate, but I do not like strawberries or grapes.|0
+est31-53.wav|You can't see the planet with the naked eye.|0
+ajaydee-260.wav|Benjamin was snacking on strips of bacon.|0
+DNGros-227.wav|It is very important that you remember.|0
+DNGros-341.wav|What is the weather in Brazil during the summer?|0
+ajaydee-281.wav|The shower curtain is beige and white.|0
+ajaydee-05.wav|The references were thick and impenetrable.|0
+DNGros-468.wav|Albert Einstein's famous equation E equals MC squared is one of the best known equations in physics.|0
+DNGros-500.wav|How often has the train been late?est31-01.wav	My dog barks when strangers arrive.|0
+est31-199.wav|Alternatively, by making oil companies pay for externalities.|0
+DNGros-444.wav|Find a picture older than five weeks.|0
+est31-135.wav|They chose to build strong stone walls around the city.|0
+DNGros-55.wav|Mount Everest is found on the international boarder between China and Nepal.|0
+DNGros-148.wav|They are very impressive, I will admit.|0
+DNGros-80.wav|We found the device in his cabinet.|0
+james_fortune-02.wav|This is required in order for the security proof to work.|0
+ajaydee-302.wav|Merry Christmas my dears.|0
+ajaydee-201.wav|My keyboard is filled with dust.|0
+DNGros-108.wav|She would need to replicate it exactly.|0
+DNGros-268.wav|Please schedule a meeting between me and John at three thirty tomorrow.|0
+DNGros-313.wav|The item costs five euros.|0
+ajaydee-247.wav|I saw Neil yesterday afternoon.|0
+est31-175.wav|In recent years, the city gained international attention.|0
+est31-170.wav|Another reason is that the city missed out on later economic developments.|0
+ajaydee-104.wav|It infuriates me, and I don't know why.|0
+ajaydee-279.wav|Yeah, I like that.|0
+DNGros-62.wav|Mister Turner will not be happy with this.|0
+ajaydee-15.wav|Eighteen of us couldn't move the van.|0
+DNGros-474.wav|Martin Luther King Jr. was the American civil rights leader.|0
+ajaydee-208.wav|As they watched the waves crashing into each other, Alice thought of home.|0
+DNGros-259.wav|There have been reports the event might be canceled.|0
+est31-194.wav|That's often due to their nature.|0
+ajaydee-112.wav|That damn mouse could sense my anger.|0
+DNGros-443.wav|The president of Russia is Vladimir Putin.|0
+james_fortune-14.wav|Did you check your laser?|0
+DNGros-181.wav|Debra is a explorer that has been all over the world.|0
+DNGros-140.wav|That is a lot for such a small task.|0
+ajaydee-29.wav|Hitting the delete and escape keys did nothing.|0
+DNGros-360.wav|She forgot her pajamas at home.|0
+est31-54.wav|We have recovered most of the deleted files, but some are still being processed.|0
+ajaydee-243.wav|January was hot on the heels of December.|0
+ajaydee-227.wav|Aesthetically speaking, it was ugly.|0
+est31-40.wav|What did your books tell you about this epoch of the city?|0
+DNGros-77.wav|Why are you not at work?|0
+ajaydee-150.wav|The brass lamp had been disturbed.|0
+est31-24.wav|If you dig this tunnel below the building it will collapse, so I urge you to not do it.|0
+james_fortune-23.wav|Conversely, a wave whose phase drifts quickly will have a short coherence time.|0
+DNGros-193.wav|I do not like sushi, so I did not really enjoy the meal.|0
+DNGros-215.wav|No, my aunt never wanted her to do that.|0
+ajaydee-158.wav|He had to spit some tobacco out of his mouth.|0
+DNGros-262.wav|The cake will be ready in seventeen minutes.|0
+DNGros-292.wav|This is the twenty-first century solution to the problem.|0
+DNGros-309.wav|I thought of buying the hat, but then saw that it cost eighty-four dollars.|0
+DNGros-466.wav|Matthew McConaughey is an American actor.|0
+ajaydee-181.wav|The sticker was peeling from the item.|0
+DNGros-07.wav|President Herbert Hoover had two children.|0
+DNGros-61.wav|Doctor Clark arrived last week.|0
+DNGros-228.wav|I am certain it was on Friday.|0
+est31-12.wav|For the third quarter in succession, the company didn't manage to leave red numbers.|0
+DNGros-248.wav|Sarah told him that she was there to see her brother.|0
+ajaydee-310.wav|He was bisexual, I think?|0
+ajaydee-249.wav|Paracetamol should get rid of that pain.|0
+ajaydee-116.wav|The cup handle has broken.|0
+ajaydee-270.wav|A registration process is required.|0
+DNGros-96.wav|We asked over twenty different people, and they all said it was his.|0
+est31-128.wav|This wasn't just a selfless act, they wanted to become elected.|0
+DNGros-392.wav|I will ask Liam if he can help me look.|0
+ajaydee-95.wav|My calendar was full that month.|0
+est31-177.wav|It's still young, but who knows where it will lead us.|0
+james_fortune-08.wav|In response to the controversy, they published an article.|0
+DNGros-489.wav|I met up with Aditya at the party and we talked for hours.|0
+DNGros-422.wav|The dragon breathed a stream of fire thirty feet long.|0
+DNGros-389.wav|No, have you checked on the counter?|0
+DNGros-387.wav|Elena will be late.|0
+ajaydee-167.wav|The football jocks laughed viciously.|0
+ajaydee-262.wav|Yours sincerely, Satan.|0
+DNGros-201.wav|I ate a dish with rice, spaghetti, hummus, and caramelized onions.|0
+DNGros-329.wav|If you have an issue in the workplace, you are encouraged to contact the HR department.|0
+ajaydee-107.wav|My Apple tablet has a dodgy wire.|0
+est31-127.wav|The first bridge had been funded by rich citizens.|0
+DNGros-08.wav|He gained fame as an Italian racing cyclist.|0
+DNGros-89.wav|That is not his mailbox.|0
+est31-160.wav|So the city was left defenseless for a period of 20 years.|0
+ajaydee-168.wav|Mark untaped the package carefully.|0
+DNGros-332.wav|Do you want to play a game?|0
+est31-33.wav|The building site was vacated.|0
+DNGros-453.wav|Elvis Presley is often called the "King of Rock and Roll".|0
+DNGros-211.wav|That would be funny if he did.|0
+est31-113.wav|The city had once been famous for its yearly celebrations.|0
+ajaydee-77.wav|There was a forest fire in Los Angeles.|0
+DNGros-102.wav|I knew you would be convinced.|0
+james_fortune-60.wav|Use this internally to implement a service.|0
+est31-94.wav|The train came thirteen minutes late.|0
+DNGros-54.wav|Zeus is the Greek god of thunder.|0
+ajaydee-71.wav|He deleted five tables from the database.|0
+DNGros-497.wav|We will be meeting Ilya there later tonight.|0
+ajaydee-173.wav|The volume wouldn't increase much further.|0
+DNGros-289.wav|I can not believe it is already December.|0
+DNGros-149.wav|I thought you would be pleased with them.|0
+DNGros-185.wav|When I visited South America I had dinner with Aaron, Douglas, Nicole, and Raymond.|0
+james_fortune-61.wav|List all the valid options that are scheduled to become obsolete in a future version.|0
+est31-151.wav|The two events, less trade and no more gold mines, forced the mint to close.|0
+ajaydee-135.wav|It's a private club, for only the most respectable people.|0
+my_voice-07.wav|I saw Louis the other day, he was super concerned about you.|0
+DNGros-138.wav|How much will it cost.|0
+ajaydee-232.wav|The tin was made from aluminium.|0
+DNGros-223.wav|Please do not touch me.|0
+est31-02.wav|Every evening, the dogs in our neighbourhood are howling.|0
+james_fortune-46.wav|These losses can be minimized by using a close-coupled cavity.|0
+est31-68.wav|Immediately after the robbers left the bank, the police were informed.|0
+ajaydee-100.wav|The crow tilted its head, as if it were thinking.|0
+DNGros-236.wav|Victoria pointed at the poster and shook her head.|0
+DNGros-141.wav|I need to pay rent and keep the doors open.|0
+ajaydee-176.wav|Every folder contained a photo.|0
+DNGros-253.wav|Suddenly, Kimberly had an idea.|0
+james_fortune-70.wav|When the user's identity has been accepted by the server, you will be notified.|0
+james_fortune-35.wav|Fractals have found applications in image processing.|0
+james_fortune-15.wav|Two-wave sources are perfectly coherent if they have a constant phase difference and the same frequency.|0
+DNGros-475.wav|Nelson Mandela was President of South Africa for five years.|0
+ajaydee-238.wav|The plastic barrier shattered.|0
+ajaydee-193.wav|My password has been changed without permission.|0
+ajaydee-303.wav|It receded into the hole.|0
+ajaydee-172.wav|The whole thing seemed depressingly futile.|0
+ajaydee-199.wav|The table was adorned with lavish decorations.|0
+DNGros-406.wav|Dmitry helped me with my homework.|0
+DNGros-02.wav|Move these files into the pictures folder.|0
+DNGros-65.wav|Doctor Garcia has been practicing medicine for longer than I have been alive.|0
+ajaydee-139.wav|My dog's name is Dora, we call her 'Poppy'.|0
+ajaydee-204.wav|The list was frighteningly extensive.|0
+DNGros-156.wav|It was like that way when it arrived.|0
+ajaydee-177.wav|Casper predicted the outcome.|0
+DNGros-447.wav|The Queen of Denmark was born in nineteen-fourty.|0
+DNGros-344.wav|I love chocolate candies.|0
+DNGros-403.wav|Steps one through five look like they will be easy.|0
+DNGros-260.wav|NASA plans to launch the rocket tomorrow.|0
+ajaydee-132.wav|He placed the DVD into the player.|0
+est31-184.wav|Same for coal.|0
+ajaydee-39.wav|He restarted his efforts for the twentieth time.|0
+DNGros-455.wav|Cristiano Ronaldo has won twenty four trophies in his career.|0
+DNGros-331.wav|Every computer on the Internet has an IP address.|0
+DNGros-434.wav|The twenty-twenty Olympics will be held in Tokyo.|0
+ajaydee-25.wav|I want my garden to be filled with roses, petunias and passion flowers.|0
+DNGros-274.wav|The festival happens the last Thursday of the month.|0
+DNGros-49.wav|Ruth is upset.|0
+DNGros-152.wav|It changes color when you say the words "blue sponge".|0
+ajaydee-237.wav|Angela wanted to copy everything he had done.|0
+est31-112.wav|This was thanks to gold being discovered and the building of gold mines.|0
+DNGros-463.wav|Harry Styles was a member of the boy band One Direction.|0
+est31-89.wav|The building has been the home base of the illegal enterprise for decades.|0
+est31-70.wav|Its easier to endure the cold if you have a warm drink in the belly.|0
+ajaydee-56.wav|Christopher was confused.|0
+DNGros-419.wav|Do you have Nina's phone number?|0
+ajaydee-187.wav|There was no empathy for her now.|0
+DNGros-28.wav|Sal is good at running.|0
+ajaydee-46.wav|It was a mega monster made of metal.|0
+DNGros-471.wav|The famous Mona Lisa painting was painted by Leonardo Da Vinci.|0
+est31-76.wav|The garden is older than the house in fact.|0
+DNGros-451.wav|John F. Kennedy was born in nineteen-seventeen.|0
+ajaydee-13.wav|Maybe tomorrow will be better than yesterday.|0
+DNGros-90.wav|It is in front of his house.|0
+ajaydee-102.wav|It was a litmus test.|0
+DNGros-350.wav|The students colored with their colored pencils.|0
+my_voice-21.wav|That's pretty creepy if you ask me.|0
+james_fortune-21.wav|Do the roses compete in athletic events?|0
+ajaydee-88.wav|When will we grow out of fidget spinners?|0
+my_voice-36.wav|He stood up, and by the time he went back to his seat everybody in the room was questioning the meaning of life.|0
+DNGros-296.wav|We are obligated to continue until twenty-twenty-one.|0
+ajaydee-131.wav|Carbon dioxide is causing global warming.|0
+DNGros-143.wav|You can pay in cash or with a credit card.|0
+my_voice-27.wav|I'll catch a bus.|0
+DNGros-240.wav|Kathleen pulled her phone out of her pocket.|0
+DNGros-347.wav|The child was rushed to the hospital after swallowing a crayon.|0
+est31-155.wav|The loss exposed the city to foreign attackers.|0
+est31-174.wav|Fortunately its not the sole driving factor of the local economy.|0
+DNGros-05.wav|Sometimes I wonder how there can be so many stars in the sky.|0
+DNGros-93.wav|The book has been wrong in the past.|0
+DNGros-458.wav|Michael Jordan played basketball for fifteen seasons.|0
+DNGros-441.wav|The ambulance drove down the street sirens blaring.|0
+james_fortune-32.wav|How does slow cooling of the hot gaseous state result in pure crystals?|0
+ajaydee-299.wav|These trousers don't fit very well.|0
+DNGros-353.wav|The judge sat in the courtroom.|0
+DNGros-438.wav|I am going to Asia tomorrow.|0
+james_fortune-37.wav|It is hard, or even impossible to define the fitness expression.|0
+DNGros-196.wav|What did you think of that trip?|0
+ajaydee-252.wav|The robot was filled with wires and circuit boards.|0
+DNGros-131.wav|I found five things that you described.|0
+DNGros-446.wav|Please be careful around the crocodile.|0
+ajaydee-277.wav|Sodium Chloride is just common table salt.|0
+est31-25.wav|It's impolite to ask a tree for its story unless you are ready to hear it in full length.|0
+james_fortune-31.wav|A main application of pseudorandom generators lies in the de-randomization of computation that relies on randomness.|0
+DNGros-200.wav|How was the food there?|0
+ajaydee-272.wav|They inspected the menu at the restaurant.|0
+ajaydee-251.wav|The caterpillar responded with a nod.|0
+ajaydee-35.wav|The Londoners regretted visiting this awful place.|0
+est31-143.wav|It provided an alternative and cheaper route.|0
+est31-87.wav|The list of shortcomings grows longer and longer.|0
+est31-97.wav|The shop is open from 8am to 8pm.|0
+est31-182.wav|At the start of the twenty first century, we are searching for alternative energy sources.|0
+ajaydee-72.wav|The fire burned the fox.|0
+est31-72.wav|I don't think this wall should be painted the way you suggested.|0
+james_fortune-55.wav|The two operations have an identical performance.|0
+ajaydee-271.wav|The cistern was malfunctioning.|0
+james_fortune-50.wav|The results of the test were inconclusive, and it has not been repeated.|0
+ajaydee-178.wav|The drawer was stuck closed.|0
+DNGros-203.wav|It was not too bad.|0
+est31-80.wav|After the dictator's rule of forty three years was over, the country was devastated.|0
+DNGros-48.wav|Remind me to buy some eggs next time I am at the store.|0
+DNGros-334.wav|Have you played chess?|0
+DNGros-171.wav|No, but it is nice to meet you.|0
+est31-106.wav|At most places, the river was too deep to cross.|0
+ajaydee-248.wav|Boris the lion cried like a donkey.|0
+DNGros-306.wav|The recipe requires three-quarters of a cups of sugar.|0
+DNGros-136.wav|The rules should be changed.|0
+est31-42.wav|Our best bet is that this animal is only active at night.|0
+my_voice-15.wav|It's shooting branches from the trunk, which means it can't properly get its sap to the top.|0
+ajaydee-147.wav|Jennifer's expression changed. "Pull my finger", she said.|0
+DNGros-187.wav|We had a wonderful dish that was seasoned with Chili Peppers.|0
+DNGros-103.wav|Does this mean he will go to jail?|0
+ajaydee-265.wav|The vertex was out of alignment.|0
+est31-98.wav|The shop is closed on Mondays.|0
+DNGros-76.wav|It can't possibly be true that we won.|0
+ajaydee-117.wav|I burned the omelette.|0
+est31-51.wav|About one in twenty.|0
+ajaydee-301.wav|The homeless seem to like soup.|0
+DNGros-243.wav|James read the information on the screen and could not believe it.|0
+DNGros-340.wav|Is it raining right now?|0
+ajaydee-186.wav|Jane spoke emphatically.|0
+DNGros-239.wav|Sean stood there tapping his foot impatiently.|0
+DNGros-178.wav|Oh no, that is terrible!|0
+DNGros-391.wav|I lost them last Thursday.|0
+ajaydee-306.wav|There was a rough patch of skin.|0
+DNGros-495.wav|Priya was late to class.|0
+DNGros-457.wav|The most recent presidents of the United States are Donald Trump, Barack Obama, and George W. Bush.|0
+DNGros-349.wav|The child was rushed to the hospital after swallowing a cap.|0
+ajaydee-23.wav|Show me some gratitude.|0
+ajaydee-58.wav|She set it on the shelf, and there it stayed.|0
+est31-165.wav|Many of the old buildings still exist today.|0
+DNGros-486.wav|Michael took a cigarette from his pocket and placed it in his mouth.|0
+est31-79.wav|The cable doesn't end in the wall plug, but it goes all the way to the power plant.|0
+DNGros-258.wav|The concert was loud enough for everyone in the city to hear.|0
+est31-118.wav|The huge city walls gave the wall epoch its name.|0
+ajaydee-55.wav|She has chipped a fingernail.|0
+DNGros-402.wav|Wow! It looks like it is flying!|0
+my_voice-11.wav|It's freezing outside!|0
+DNGros-320.wav|We expect more than thirty thousand people to attend.|0
+est31-37.wav|This specific approach won't bear any fruit.|0
+DNGros-263.wav|We pride ourselves in completing all requests in less than twenty four hours.|0
+est31-81.wav|I have pondered about the issue a bit and arrived at the conclusion that it is non-trivial.|0
+DNGros-427.wav|Ilya knows how to throw a good party.|0
+ajaydee-103.wav|Abigail is a highly regarded scientist.|0
+ajaydee-218.wav|The lift was operated by a pneumatic system.|0
+DNGros-390.wav|I did not see them there.|0
+est31-136.wav|At the time of their building, the walls were thought to be stong.|0
+my_voice-32.wav|Aw man, that's terrible!|0
+DNGros-467.wav|Michael Jackson began his career as part of the Jackson Five.|0
+DNGros-202.wav|Did you think it was tasty?|0
+DNGros-241.wav|Alexander was not sure why she did it.|0
+ajaydee-235.wav|There is a digital representation available.|0
+ajaydee-81.wav|The fumes from the traffic were unbearable.|0
+DNGros-176.wav|That is really sad to here.|0
+ajaydee-163.wav|Christmas is a lot like Easter.|0
+james_fortune-17.wav|I'm letting her out of the house.|0
+DNGros-325.wav|H2O is the chemical formula for water.|0
+DNGros-42.wav|Clifton is unable to reach the shelf.|0
+DNGros-319.wav|Flight four B nine one was delayed due to poor weather.|0
+est31-56.wav|In the short term future, prices will triple.|0
+est31-82.wav|The irrigation system will be fixed within a week.|0
+DNGros-118.wav|You know her better, so you should do it.|0
+DNGros-105.wav|Maybe he could just pay for the device.|0
+ajaydee-54.wav|Pizza is an Italian classic.|0
+ajaydee-292.wav|March was windy and dark.|0
+ajaydee-69.wav|This wool jumper is itchy.|0
+est31-183.wav|Oil doesn't make it anymore, it harms the climate.|0
+est31-147.wav|Second, the mines around the city got depleted.|0
+ajaydee-83.wav|His anxiety exploded.|0
+DNGros-43.wav|Hello, my name is Brenda.|0
+DNGros-414.wav|Mia turned seven today.|0
+DNGros-245.wav|Paul apologized to Linda and unlocked the door.|0
+ajaydee-27.wav|If you want it, you must take it.|0
+DNGros-460.wav|Katy Perry is a famous American singer.|0
+est31-167.wav|Unlike in other cities, most of the beautiful buildings weren't destroyed in later times.|0
+ajaydee-180.wav|The microphone put out a muffled signal.|0
+DNGros-229.wav|Hey, don't go there!|0
+DNGros-424.wav|After twelve hours of rowing, Darius climbed out of the canoe, and lied down on the beach to nap.|0
+est31-22.wav|The future has never been so bright than today.|0
+DNGros-126.wav|I think it came in a long, red box.|0
+DNGros-420.wav|Do you have Isabella's phone number?|0
+DNGros-400.wav|Did you know that Nikola was going to join us?|0
+DNGros-480.wav|Neil Armstrong was the first man to step foot on the moon.|0
+ajaydee-109.wav|I watched the weather forecast.|0
+DNGros-288.wav|I would prefer to do it in November.|0
+est31-196.wav|One economic mechanism of exposing these costs is internalizing them.|0
+DNGros-100.wav|They all live in the area.|0
+DNGros-431.wav|We are going to the football game tonight.|0
+DNGros-88.wav|We also found suspicious letters in his mailbox.|0
+est31-137.wav|Later on, it turned out that the walls were not sticky.|0
+ajaydee-62.wav|The salesman was like the rest of them, untrustworthy.|0
+DNGros-439.wav|The flag is red, blue, and yellow.|0
+DNGros-494.wav|The pigs and cows ran everything.|0
+DNGros-144.wav|Here is the money you wanted.|0
+ajaydee-294.wav|This biscuit is yummy.|0
+ajaydee-311.wav|The interface was indecipherable.|0
+est31-186.wav|Solar seems like a good replacement.|0
+my_voice-06.wav|Why are you blaming me?|0
+est31-146.wav|Also there was a decrease in trade interest between east and west.|0
+DNGros-213.wav|My aunt used to be in the business as well.|0
+james_fortune-11.wav|Shutting all systems down for the evening.|0
+DNGros-470.wav|Mahatma Gandhi led the Indian independence movement in the twentieth century.|0
+james_fortune-33.wav|Treat the problem with rigorous mathematical analysis.|0
+DNGros-163.wav|No, I asked Pamela and Mark for directions before I left.|0
+DNGros-388.wav|Olivia, have you seen my keys?|0
+james_fortune-30.wav|Many different classes of statistical tests have been considered in the literature.|0
+ajaydee-18.wav|"I needed to concentrate more", cried Jasper.|0
+ajaydee-205.wav|That bold remark will be remembered for a long time.|0
+ajaydee-300.wav|Her jeans have holes in them.|0
+DNGros-11.wav|The juggler managed to keep five balls in the air at once.|0
+ajaydee-129.wav|It could have been steel, silver or platinum.|0
+DNGros-114.wav|I hope you are right this time.|0
+ajaydee-244.wav|The clock was slightly askew.|0
+ajaydee-179.wav|Welcome to Dave's guitar session.|0
+DNGros-281.wav|We will be visiting in April.|0
+ajaydee-48.wav|The light reflected about the place, like some supernatural aura.|0
+ajaydee-101.wav|This jelly doesn't taste of limes.|0
+DNGros-307.wav|The irrational number Pi, which represents the ratio between a circle's circumference and its diameter, approximately equals three point one four one five.|0
+DNGros-491.wav|Forty on Thursday is the name of the event.|0
+DNGros-254.wav|Look John, I just cannot support that.|0
+DNGros-50.wav|Sharon knows how to annoy her sister.|0
+DNGros-137.wav|I do not make the rules unfortunately.|0
+ajaydee-145.wav|Would you like a cappuccino?|0
+est31-83.wav|I'll start my first peach harvest later this year.|0
+ajaydee-194.wav|I have come to enquire about the antelope.|0
+ajaydee-14.wav|There were thirty girls on the soccer field.|0
+est31-159.wav|It didn't help that back then the empire was in the midst of a succession conflict.|0
+james_fortune-27.wav|The deadly monster kid made the news again.|0
+DNGros-293.wav|People born in twenty-eighteen will possibly live into the twenty-second century.|0
+est31-145.wav|It was possible to sail the entire route in one go.|0
+ajaydee-37.wav|This fireplace is Victorian.|0
+DNGros-257.wav|The lights dimmed and the music started.|0
+DNGros-275.wav|We all know that our favorite day of the week is Friday.|0
+ajaydee-234.wav|Margarine is just butter with an inferiority complex.|0
+est31-26.wav|Eighteen months after the animal has been reported missing it was finally in its owner's right arms again.|0
+DNGros-379.wav|Happy birthday Mina!|0
+DNGros-272.wav|Can we plan on doing it on Tuesday?|0
+est31-47.wav|I haven't been to this airport in years.|0
+james_fortune-69.wav|Please send log information using the standard system module.|0
+ajaydee-108.wav|The sweet corn tasted better grilled.|0
+DNGros-394.wav|No, I have not seen it.|0
+ajaydee-120.wav|In the United States, we use paper bags for shopping.|0
+est31-191.wav|This view is wrong though.|0
+est31-193.wav|Also, oil and coal have hidden costs that others have to pay.|0
+DNGros-266.wav|Scientists believe the Solar System formed around four point six billion years ago.|0
+ajaydee-126.wav|Petrov made a funny face as he turned.|0
+james_fortune-13.wav|I'm literally a flying pony.|0
+DNGros-382.wav|I know Daniel quite well.|0
+DNGros-280.wav|The march is supposed to take place in March.|0
+ajaydee-246.wav|Bacon, pancakes and maple syrup is a hearty start to any day.|0
+james_fortune-20.wav|According to all known laws of aviation, there is no way a bee should be able to fly.|0
+DNGros-91.wav|That is not her house.|0
+est31-85.wav|Thousands of years ago, this town was the center of an ancient civilisation.|0
+ajaydee-161.wav|The patient's throat feels swollen.|0
+est31-103.wav|The little town quickly evolved into a trade center between east and west.|0
+ajaydee-138.wav|Monkeys smile when they are scared.|0
+DNGros-336.wav|We will not have any money left.|0
+DNGros-165.wav|She said you told her where it was.|0
+est31-16.wav|This artful creation is more than just a picture, it's a statement by the artist.|0
+DNGros-496.wav|It seems Rahul had thought everything.|0
+my_voice-02.wav|Why didn't you phone me up?|0
+est31-181.wav|Different species have different ways of dealing with tides.|0
+est31-166.wav|Today, people in the city are very thankful for this fact.|0
+DNGros-224.wav|You are so rude!|0
+ajaydee-309.wav|She was reminded of her mistakes.|0
+ajaydee-149.wav|Yorkshire is my county.|0
+DNGros-358.wav|Can I get the sandwich without pickles?|0
+est31-95.wav|The issue can be avoided entirely.|0
+DNGros-487.wav|He was ludicrously fast on a bike.|0
+DNGros-410.wav|My wife had a baby last week.|0
+ajaydee-79.wav|The Canadian people are a little too humble.|0
+DNGros-317.wav|You must be at least one hundred and fifty centimeters to ride the bike.|0
+DNGros-408.wav|William ran down the street.|0
+est31-75.wav|I welcome you to my humble dwellings.|0
+james_fortune-59.wav|Verify if the configuration file is valid.|0
+est31-162.wav|After the empire got a stable government again, the city was reclaimed.|0
+ajaydee-125.wav|This was a lie, and they all knew it.|0
+est31-59.wav|In my wildest dream I hadn't thought this would happen.|0
+ajaydee-255.wav|Eric took his vitamins and continued his exercise regime.|0
+ajaydee-32.wav|This moisturising cream is fantastic.|0
+est31-187.wav|The solar industry has been on the rise recently.|0
+my_voice-29.wav|What would you say is the difference between a language and a dialect?|0
+DNGros-303.wav|Twenty-twenty-eight is going to be the first year in over eight decades we must cancel the event.|0
+ajaydee-118.wav|Disregard my last statement.|0
+DNGros-373.wav|Hussein and I might get dinner together.|0
+DNGros-485.wav|But you could bring them there!|0
+DNGros-323.wav|In surprise finish, the final score was seven to five.|0
+est31-104.wav|It was located on a shallow river crossing.|0
+DNGros-35.wav|I got a call from Ben.|0
+ajaydee-113.wav|Mayonnaise is made from eggs, oil, vinegar and mustard.|0
+DNGros-300.wav|In twenty-twenty-five grandpa will celebrate his hundredth birthday.|0
+ajaydee-189.wav|They drank their milk and fell asleep.|0
+DNGros-161.wav|Thank you Nicholas for inviting me.|0
+my_voice-25.wav|Would you believe he actually asked me out?|0
+james_fortune-77.wav|Detach the hydrogen atom from the cyanide molecule.|0
+DNGros-197.wav|My grandmother and I went inside the Great Pyramid.|0
+DNGros-276.wav|I have to work this Saturday.|0
+DNGros-322.wav|The population was eighteen thousand four hundred and thirty two.|0
+DNGros-435.wav|The twenty-eigtheen Olympics will be in London.|0
+DNGros-168.wav|Here, let me show you around.|0
+DNGros-191.wav|I went to Tokyo several years ago.|0
+DNGros-445.wav|I'm not happy that it is taking so long.|0
+DNGros-03.wav|Where did you find that apple?|0
+DNGros-355.wav|Can I get the sandwich without mayonnaise?|0
+DNGros-74.wav|Why are you doing this?|0
+james_fortune-28.wav|The existence of such one-way functions is still an open conjecture.|0
+james_fortune-62.wav|This allows remote hosts to connect to local forwarded ports.|0
+ajaydee-121.wav|Ouch, that was uncalled for.|0
+DNGros-385.wav|My brother Elijah fell off his bike.|0
+DNGros-304.wav|We expect this stay relevant until twenty-twenty-nine.|0
+DNGros-147.wav|Here are the twelve items I was referring to.|0
+my_voice-26.wav|Can you come pick me up at the office?|0
+DNGros-386.wav|Fabian does not like pepper.|0
+DNGros-145.wav|Thank you for your understanding.|0
+DNGros-130.wav|Wow, this is a nice table!|0
+ajaydee-99.wav|The sparrow and the songbird danced along the fence.|0
+ajaydee-74.wav|They opened the bottle of wine and drank heavily.|0
+est31-100.wav|It's too early to tell whether the strategy will pay off.|0
+ajaydee-97.wav|They rode alongside each other gracefully.|0
+est31-38.wav|The noise came from the basement.|0
+ajaydee-137.wav|We've been laughing all day about that.|0
+DNGros-69.wav|What is today?|0
+ajaydee-111.wav|The terror was palpable.|0
+est31-180.wav|Marine life has adapted to tides.|0
+DNGros-330.wav|The new proposal goes by the acronym WNA.|0
+ajaydee-211.wav|Harry hoped he would see some success from the current project.|0
+DNGros-337.wav|Please go to aisle seven.|0
+DNGros-279.wav|Our busiest time of year is in February.|0
+DNGros-06.wav|Does the venue offer free WiFi?|0
+ajaydee-290.wav|It's raining heavily, take an umbrella.|0
+james_fortune-49.wav|The hot gas has many molecules in the upper excited states.|0
+DNGros-115.wav|We all hope I am right.|0
+est31-30.wav|It's a miracle that nobody has found out about this yet.|0
+est31-61.wav|Opposite to the main building, you can see the guest house.|0
+ajaydee-151.wav|It made a faint whistling sound.|0
+my_voice-37.wav|The problem is that there is no problem when there should have been one.|0
+est31-23.wav|What have you caused all of this trouble for?|0
+DNGros-116.wav|I will tell her what we decided.|0
+ajaydee-110.wav|The news was chilling, to say the least.|0
+ajaydee-229.wav|There was no way to measure anything of that length.|0
+ajaydee-17.wav|It was shredded, like lace after an attack from hyperactive kittens.|0
+est31-39.wav|The planet's core is made of solid gold, but every traveller attempting to recover some didn't return.|0
+DNGros-401.wav|The wizard cast a very powerful spell over the town.|0
+est31-29.wav|This is the only building that was left unaffected by fire.|0
+DNGros-416.wav|Where did Charlotte leave her keys?|0
+ajaydee-240.wav|June decided to retire.|0
+DNGros-232.wav|I forgot my ticket on the train.|0
+est31-117.wav|Back in those days, it went really well for the city.|0
+DNGros-97.wav|Do you know those people?|0
+DNGros-305.wav|The model predicts that by twenty-thirty, the chances could more than double.|0
+ajaydee-264.wav|Our mortgage is in the process of being torn apart.|0
+DNGros-09.wav|His saxophone solo was incredible.|0
+ajaydee-298.wav|She had her cardigan on.|0
+ajaydee-123.wav|Michael opened a browser and navigated to an anonymous search engine.|0
+est31-176.wav|The local internet economy is very strong.|0
+DNGros-58.wav|The nurse is unwilling to give him the medicine.|0
+DNGros-16.wav|A bat is in the cave.|0
+DNGros-221.wav|It has been so long since I have seen you!|0
+ajaydee-231.wav|She's a feisty little ferret.|0
+DNGros-481.wav|A large painting hung over the fireplace.|0
+est31-188.wav|Prices for solar panels have dropped in the past years.|0
+est31-114.wav|The celebrations would last a month and include free games and free food.|0
+est31-168.wav|This is probably because the buildings were made out of stone.|0
+DNGros-172.wav|Janet is a world-class tennis player.|0
+DNGros-315.wav|The new highway is expected to cost nine point two four million dollars.|0
+DNGros-179.wav|Please don't be concerned.|0
+est31-84.wav|I've brought you some cheese, because I know you love cheese.|0
+DNGros-252.wav|Charles looked on, angry that there was nothing he could do.|0
+DNGros-242.wav|Mary found the website and showed it to Daniel.|0
+DNGros-123.wav|What are you here for this morning?|0
+ajaydee-284.wav|The incantation was written in italics.|0
+DNGros-73.wav|We must find out how long to run the experiment.|0
+DNGros-82.wav|I am not sure what other explanation we have.|0
+DNGros-234.wav|My brother is performing tonight.|0
+DNGros-101.wav|Fine, I agree this could be the case.|0
+DNGros-70.wav|We must leave now.|0
+est31-144.wav|Ship technology has improved.|0
+DNGros-270.wav|After being sealed for more than eighty four years, the vault was finally opened in twenty-fourteen.|0
+ajaydee-174.wav|She put the amplifier on mute until they calmed down.|0
+est31-148.wav|The mines had to be abandoned.|0
+my_voice-09.wav|Just, how big is that closet?|0
+james_fortune-41.wav|This particular form of encoding requires a specialized crossover mechanism.|0
+ajaydee-130.wav|The hydrogen gas escaped.|0
+est31-91.wav|If you add another two storeys, you'll need more support pillars.|0
+DNGros-273.wav|I am only available on Wednesday.|0
+est31-185.wav|I wonder whether we will be able to harvest energy from fusion reactors.|0
+est31-21.wav|The locals had the advantage of not knowing the secure path through the marsh.|0
+ajaydee-185.wav|The nurse waddled around the ward.|0
+ajaydee-57.wav|It was sprayed in red, with yellow edges.|0
+DNGros-255.wav|Margaret was on her knees, begging Melissa to change her mind.|0
+DNGros-342.wav|I love caramel candies.|0
+DNGros-214.wav|Is that how your niece began?|0
+ajaydee-52.wav|He opened the package, and tucked into a sandwich.|0
+DNGros-321.wav|It weighs five kilograms.|0
+ajaydee-152.wav|The structure chattered throughout the earthquake.|0
+ajaydee-26.wav|The beer was more than just refreshing, it was delicious.|0
+DNGros-482.wav|I saw that once before.|0
+ajaydee-94.wav|It was a useful reminder to complete the task.|0
+est31-15.wav|Last week our fridge broke which forced us to eat lots of ice cream.|0
+DNGros-39.wav|Remind me to feed the cat when I get home.|0
+DNGros-66.wav|Mrs. Lewis was selected as the new commissioner.|0
+est31-41.wav|Science has been arguing about the zoological classification of the species for decades.|0
+est31-101.wav|The story of the city starts a few thousand years ago.|0
+james_fortune-06.wav|The appended postfixes are written as bit strings.|0
+my_voice-10.wav|Did you really think it through?|0
+DNGros-38.wav|Gina is a great chess player.|0
+ajaydee-33.wav|The brake fluid was leaking out onto the path.|0
+DNGros-432.wav|The football game ended with neither team scoring a single point.|0
+DNGros-271.wav|We meet every other Monday.|0
+est31-125.wav|The other bridge was for everyone else.|0
+ajaydee-188.wav|The Christian bible has seen many changes throughout history.|0
+DNGros-98.wav|No, they were selected at random.|0
+DNGros-369.wav|I thought I saw him with Ahmed.|0
+ajaydee-87.wav|Her eye twitched uncontrollably.|0
+DNGros-208.wav|He grew strawberries, so you would not like it.|0
+ajaydee-64.wav|Those women are all card sharks, don't be fooled.|0
+est31-198.wav|This can be done by a tax on oil.|0
+ajaydee-200.wav|Gary pulled another coin from his pouch.|0
+james_fortune-47.wav|The exact shape of the cavity is often dependent on how many lamps are used.|0
+DNGros-231.wav|Let me see your ticket.|0
+DNGros-287.wav|It is odd that is so cold in October.|0
+DNGros-499.wav|When will the train arrive this morning?|0
+est31-43.wav|The train is probably the best way to get there.|0
+est31-62.wav|Don't believe the lies they are telling you, invent your own instead.|0
+est31-138.wav|For a long time, the city's downfall was attributed to its second sacking.|0
+james_fortune-18.wav|He had to take him prisoner.|0
+DNGros-47.wav|Remind me to send another email.|0
+est31-99.wav|If you tell me why you came here, I'll show you the project I've been working on.|0
+DNGros-04.wav|Teresa, Mildrid, Ralph, and Vonda all arrived yesterday evening.|0
+est31-73.wav|This carpet is full of lice.|0
+james_fortune-29.wav|A backdoor is a deliberate mechanism that is added to a cryptographic algorithm.|0
+DNGros-216.wav|It was nice talking with you.|0
+est31-48.wav|The twenty million dollar project is projected to be finished in eight weeks.|0
+DNGros-86.wav|That is what I thought as well, but it might not be true.|0
+DNGros-377.wav|We know that Mark does not like spicy food.|0
+DNGros-204.wav|Do you like fruit?|0
+est31-156.wav|In the end this led to the second sacking of the city.|0
+ajaydee-164.wav|Apple pie is an iconic dish.|0
+est31-74.wav|Are you on the guest list?|0
+ajaydee-212.wav|Every file had the letter "A" printed on the front.|0
+DNGros-154.wav|I did not choose that phrase.|0
+DNGros-46.wav|Robert is king of the playground.|0
+DNGros-484.wav|The old man left the book.|0
+ajaydee-63.wav|The hull of the ship collapsed.|0
+ajaydee-266.wav|A missing parrot is called a polygon.|0
+ajaydee-236.wav|The walls were covered with a thick paste.|0
+ajaydee-286.wav|She decided against it.|0
+DNGros-452.wav|Justin Bieber is a Canadian singer that rose to fame in two-thousand-and-eight.|0
+est31-63.wav|This investment won't pay off.|0
+ajaydee-105.wav|The virus spread faster than wildfire.|0
+DNGros-22.wav|The children learned how to knit.|0
+DNGros-285.wav|We have it scheduled for August first.|0
+ajaydee-28.wav|It was almost as if her life had been deleted.|0
+ajaydee-291.wav|We rejoiced at the citadel.|0
+est31-20.wav|The rule is to not let any foreigners in.|0
+ajaydee-16.wav|The snow blasted along the side of the bridge.|0
+est31-58.wav|The cobalt mine has been abandoned decades ago.|0
+ajaydee-287.wav|Her hair flowed down her back.|0
+DNGros-186.wav|What did you eat for dinner?|0
+DNGros-267.wav|The mall is open eight thirty AM to five thirty PM.|0
+ajaydee-119.wav|The plastic carrier bag had torn.|0
+DNGros-122.wav|I am doing well.|0
+DNGros-462.wav|Tiger Woods is a famous golfer.|0
+james_fortune-43.wav|Such an oscillating dipole moment can exchange energy with an electromagnetic wave of the same frequency.|0
+est31-142.wav|The north passage became ice-free.|0
+james_fortune-24.wav|Consider a tungsten light-bulb filament.|0
+ajaydee-86.wav|As the flag unfurled, they all hollered like wild beast.|0
+ajaydee-11.wav|"What a load of trash", Sarah opined.|0
+est31-178.wav|The final chapter in the city's history has not been opened yet.|0
+ajaydee-136.wav|Peter shrunk back, aghast.|0
+ajaydee-307.wav|Acne is mainly a problem for teenagers.|0
+DNGros-429.wav|Ying told us to bring extra strawberries.|0
+ajaydee-146.wav|Laura took out a cigarette and placed it in her mouth.|0
+ajaydee-65.wav|The ghost laughed in the weirdest way.|0
+ajaydee-308.wav|It was a juggernaut.|0
+DNGros-363.wav|I love syrup and pancakes.|0
+my_voice-03.wav|I'm not so sure how I feel about dress codes.|0
+DNGros-352.wav|The lawyer sat in the courtroom.|0
+DNGros-132.wav|Great, can you show them to me?|0
+ajaydee-166.wav|Dennis couldn't approach the monolith.|0
+DNGros-374.wav|Let me introduce you to Antonio.|0
+DNGros-182.wav|I have always wanted to travel the world.|0
+DNGros-456.wav|Johnny Depp is reprising his role for the third time in the new film.|0
+ajaydee-155.wav|The criminals taunted the police officers and prison guards.|0
+ajaydee-219.wav|You have developed a serious case of pneumonia.|0
+DNGros-134.wav|That is not fair at all!|0
+DNGros-206.wav|My uncle was fruit farmer.|0
+ajaydee-34.wav|Edinburgh is a dream-like place to visit.|0
+DNGros-59.wav|Ryan knows how to swim.|0
+my_voice-16.wav|Did the president just lie again?|0
+est31-18.wav|This invention might mean the end of all illness.|0
+est31-132.wav|Today, anyone can pass both bridges for free, but one is closed to cars.|0
+james_fortune-76.wav|Connect to the specified prompt server.|0
+james_fortune-53.wav|In addition, the feature axis is configurable.|0
+james_fortune-75.wav|This is used for host-based authentication.|0
+ajaydee-90.wav|The art festival was a disaster.|0
+DNGros-417.wav|Olivia came to pick up the cup cakes.|0
+DNGros-41.wav|When are we leaving for the party?|0
+james_fortune-38.wav|Opinion is divided over the importance of crossover versus mutation.|0
+DNGros-437.wav|I am going to the USA tomorrow.|0
+ajaydee-157.wav|Lemons and thyme should go well.|0
+DNGros-151.wav|I am, but I do not see anything special.|0
+ajaydee-313.wav|The report was largely scathing.|0
+DNGros-107.wav|What if he made a new version?|0
+DNGros-423.wav|The light danced across the lake.|0
+ajaydee-275.wav|The train pulled into the station.|0
+ajaydee-142.wav|The whole office was struck with deafening silence.|0
+DNGros-160.wav|Welcome to the party, Sandra!|0
+DNGros-218.wav|Let me introduce you to Benjamin.|0
+DNGros-75.wav|It can't possibly be true that we lost.|0
+ajaydee-82.wav|Despair is something that haunts us at night.|0
+DNGros-311.wav|The car sold for twelve thousand four hundred and sixty nine dollars.|0
+ajaydee-08.wav|The insurgents gathered sticks and wood.|0
+DNGros-376.wav|Hello! It is great to see you!|0
+DNGros-26.wav|Delete this file.|0
+DNGros-64.wav|Mister Robinson will be on time.|0
+est31-126.wav|For passing the general bridge, you had to pay.|0
+est31-134.wav|The city leaders recognized a military threat from the east.|0
+james_fortune-48.wav|The output is highest in the near infrared.|0
+DNGros-19.wav|Do not cross the yellow line.|0
+ajaydee-09.wav|We felt that something was following us through the woods.|0
+DNGros-442.wav|The ambulance drove down quickly to the hospital.|0
+DNGros-384.wav|I with Kevin would go with us.|0
+ajaydee-198.wav|My chemist told me to take these tablets before eating.|0
+DNGros-326.wav|World leaders gathered for the UN meeting.|0
+DNGros-405.wav|We met Alexander at the bar and had a great time last night.|0
+est31-139.wav|In fact, this view is still present in many outdated teaching materials.|0
+DNGros-63.wav|Professor Phillips is credited with discovering a new way to make batteries.|0
+ajaydee-295.wav|She retracted her statement.|0
+DNGros-158.wav|Unfortunately, the choice is permanent.|0
+DNGros-380.wav|How many slices would you like Santiago?|0
+ajaydee-224.wav|The cursor blinked fast.|0
+ajaydee-148.wav|Spotted dick is a classic British pudding.|0
+ajaydee-66.wav|A frightening concept occurred to Jennifer.|0
+DNGros-212.wav|Yes, it would be.|0
+DNGros-448.wav|Victoria was born in nineteen-seventy-four.|0
+est31-55.wav|The worst outcome is the company refuses the offer.|0
+est31-49.wav|Maybe this is something of great importance.|0
+james_fortune-34.wav|There are numerous advantages of using optical devices for computing.|0
+ajaydee-314.wav|I needed immediate access.james_fortune-01.wav	In this case, another block is added to the message.|0
+ajaydee-196.wav|Nobody knew who Malcolm was.|0
+DNGros-183.wav|I would recommend doing it before you get too old.|0
+ajaydee-282.wav|My cat laid there, soaking up the sunlight.|0
+est31-150.wav|The mines had been ran by city council.|0
+ajaydee-305.wav|We cannot forget that farce.|0
+DNGros-207.wav|What did he grow?|0
+DNGros-490.wav|Where did Arnav get his new sofa?|0
+ajaydee-276.wav|Carbon monoxide is a very dangerous gas.|0
+DNGros-302.wav|In twenty-twenty-seven I will be old enough to drive.|0
+ajaydee-143.wav|The letter said that the payment was delayed.|0
+my_voice-33.wav|The CEO of that Japanese company resigned.|0
+DNGros-33.wav|The scientist wrote her paper.|0

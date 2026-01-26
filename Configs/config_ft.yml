@@ -5,7 +5,7 @@ device: "cuda"
 epochs: 50 # number of finetuning epoch (1 hour of data)
 batch_size: 2
 max_len: 250 # maximum number of frames
-pretrained_model: "Models/LibriTTS/epochs_2nd_00020.pth"
+pretrained_model: "Models/LibriTTS/checkpointv3.pth"
 second_stage_load_pretrained: true # set to true if the pre-trained model is for 2nd stage
 load_only_params: true # set to true if do not want to load epoch numbers and optimizer parameters
 
@@ -17,7 +17,7 @@ PLBERT_dir: 'Utils/PLBERT/'
 data_params:
   train_data: "Data/train_list.txt"
   val_data: "Data/val_list.txt"
-  root_path: "/home/ilya_vaschillo/voice-checkpoint/wavs"
+  root_path: "/home/ilya_vaschillo/voice-checkpoint/wavs_v1"
   OOD_data: "Data/OOD_texts.txt"
   min_length: 10 # sample until texts with this size are obtained for OOD texts
 
