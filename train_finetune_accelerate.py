@@ -257,10 +257,14 @@ def main(config_path):
         model.text_encoder.train()
         
         model.predictor.train()
+        model.predictor_encoder.train()
         model.bert_encoder.train()
         model.bert.train()
         model.msd.train()
         model.mpd.train()
+        model.decoder.train()
+        model.style_encoder.train()
+        model.diffusion.train()
 
         for i, batch in enumerate(train_dataloader):
             waves = batch[0]
