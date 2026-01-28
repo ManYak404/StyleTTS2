@@ -1,5 +1,5 @@
 log_dir: "Models/LJSpeech"
-save_freq: 5
+save_freq: 7
 log_interval: 10
 device: "cuda"
 epochs: 50 # number of finetuning epoch (1 hour of data)
@@ -22,7 +22,7 @@ data_params:
   min_length: 10 # sample until texts with this size are obtained for OOD texts
 
 preprocess_params:
-  sr: 44100
+  sr: 24000
   spect_params:
     n_fft: 2048
     win_length: 1200
