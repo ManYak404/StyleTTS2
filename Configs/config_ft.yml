@@ -1,5 +1,5 @@
 log_dir: "Models/LJSpeech"
-save_freq: 7
+save_freq: 5
 log_interval: 10
 device: "cuda"
 epochs: 50 # number of finetuning epoch (1 hour of data)
